@@ -1,0 +1,137 @@
+.navbar-brand img {
+    height: 22px;
+    width: 84px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-item {
+    font-family: poppins, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: black;
+    font-weight: 800;
+}
+
+h4 {
+    font-family: poppins, sans-serif;
+    font-size: 24px;
+    color: black;
+    font-weight: 800;
+}
+
+h3 {
+    font-family: poppins, sans-serif;
+    font-size: 24px;
+    color: black;
+    font-weight: 900;
+    padding-top: 20px;
+}
+
+footer img {
+    height: 22px;
+    width: 84px;
+}
+
+.end-item {
+    list-style-type: none;
+}
+
+.color {
+    background-color: whitesmoke;
+}
+
+.midpart {
+    margin-top: 30px;
+}
+
+.spread {
+    box-shadow: 0px 30px 50px 0px rgb(30 32 90 / 8%);
+}
+
+.card-design {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 10px;
+}
+
+a.link {
+    text-decoration: none;
+}
+
+.category {
+    background-color: white;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+
+h3 {
+    color: #1e205a;
+}
+
+h4 {
+    color: #1e205a;
+}
+
+
+.item a {
+    text-decoration: none;
+}
+
+.item li {
+    border-bottom: 1px solid rgba(158, 156, 156, 0.459);
+    list-style: none;
+}
+
+.item {
+    padding: 0;
+}
+
+.item li {
+    padding: 15px 0;
+}
+
+.item li:last-child {
+    border-bottom: none;
+}
+
+.item li a {
+    color: #1e205a;
+    font-weight: 800;
+}
+
+.num {
+    font-size: 40px;
+    color: #1e205a;
+    font-weight: 900;
+    margin-right: 20px;
+}
+
+.footer-img {
+    margin-top: 30%;
+}
+
+.logo-text {
+    margin-top: 10%;
+}
+
+.footer-list li {
+    color: #1e205a;
+    font-weight: 800;
+    padding-top: 20px;
+
+}
+
+.footer-list {
+    padding-left: 0;
+}
+
+footer {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
